@@ -72,6 +72,7 @@ footer {
 }
 
 .footer-button {
+  display: block;
   background-color: white;
   color: #9b0702;
   padding: 10px;
